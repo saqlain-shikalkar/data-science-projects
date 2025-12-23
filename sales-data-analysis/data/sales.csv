@@ -1,0 +1,151 @@
+Order ID,Order Date,Region,Category,Product,Customer Name,Quantity,Sales
+1001,01-08-2023,South,Furniture,Phone,Customer E,3,3676.96
+1002,14-04-2023,East,Technology,Table,Customer A,5,4854.07
+1003,16-06-2023,West,Office Supplies,Phone,Customer E,3,2282.83
+1004,08-03-2023,North,Technology,Table,Customer D,5,1480.56
+1005,14-08-2023,East,Furniture,Printer,Customer D,1,1758.92
+1006,03-09-2023,South,Technology,Chair,Customer E,10,1546.4
+1007,31-07-2023,West,Furniture,Chair,Customer B,3,3694.31
+1008,19-10-2023,North,Office Supplies,Chair,Customer C,9,3215.32
+1009,19-08-2023,South,Technology,Monitor,Customer B,9,4240.26
+1010,16-06-2023,South,Technology,Phone,Customer A,3,3188.32
+1011,27-09-2023,East,Office Supplies,Monitor,Customer D,9,1414.09
+1012,16-10-2023,West,Office Supplies,Desk,Customer C,1,2920.3
+1013,15-03-2023,West,Office Supplies,Table,Customer C,8,1082.7
+1014,09-06-2023,East,Furniture,Chair,Customer D,5,3267.63
+1015,05-05-2023,South,Office Supplies,Pen,Customer C,5,3212.17
+1016,02-11-2023,West,Technology,Table,Customer C,6,447.33
+1017,22-09-2023,West,Office Supplies,Phone,Customer B,9,3424.2
+1018,06-09-2023,East,Furniture,Printer,Customer D,1,415.19
+1019,24-08-2023,West,Furniture,Phone,Customer D,3,3496.49
+1020,09-06-2023,South,Technology,Table,Customer A,6,2492.24
+1021,27-04-2023,South,Furniture,Phone,Customer E,3,1306.34
+1022,19-05-2023,South,Furniture,Desk,Customer B,1,4030.72
+1023,26-10-2023,East,Furniture,Printer,Customer E,3,3663.72
+1024,30-07-2023,South,Office Supplies,Chair,Customer E,3,1448.29
+1025,24-08-2023,West,Furniture,Desk,Customer E,9,563.7
+1026,26-10-2023,South,Furniture,Pen,Customer E,8,140
+1027,19-10-2023,West,Furniture,Pen,Customer B,3,1647.6
+1028,12-07-2023,West,Furniture,Table,Customer A,1,4641.04
+1029,27-03-2023,East,Technology,Phone,Customer B,10,3309.72
+1030,31-12-2023,North,Furniture,Table,Customer C,1,221.69
+1031,03-02-2023,East,Technology,Monitor,Customer A,10,4871.71
+1032,23-09-2023,North,Office Supplies,Table,Customer C,1,3232.78
+1033,18-10-2023,North,Furniture,Pen,Customer A,6,3776.61
+1034,06-01-2023,West,Furniture,Phone,Customer E,1,2771.85
+1035,28-08-2023,East,Furniture,Desk,Customer A,2,3866.86
+1036,02-03-2023,East,Technology,Table,Customer B,2,1067.96
+1037,25-09-2023,North,Technology,Chair,Customer C,6,2442
+1038,06-01-2023,North,Technology,Laptop,Customer E,7,1712.77
+1039,12-04-2023,East,Office Supplies,Phone,Customer A,10,4366.77
+1040,02-04-2023,North,Office Supplies,Laptop,Customer E,7,3484.62
+1041,23-08-2023,South,Furniture,Table,Customer E,2,3014.35
+1042,22-08-2023,South,Technology,Table,Customer E,8,3738.46
+1043,11-03-2023,East,Office Supplies,Table,Customer A,5,386.62
+1044,01-02-2023,North,Office Supplies,Phone,Customer A,8,2160.69
+1045,13-06-2023,West,Office Supplies,Printer,Customer C,6,1368.86
+1046,13-06-2023,North,Furniture,Pen,Customer D,7,1732.93
+1047,09-11-2023,East,Technology,Pen,Customer C,1,1264.51
+1048,19-01-2023,East,Office Supplies,Table,Customer A,3,3092.27
+1049,24-09-2023,West,Technology,Table,Customer C,6,3076.29
+1050,19-05-2023,North,Technology,Laptop,Customer E,1,1130.69
+1051,08-05-2023,West,Office Supplies,Monitor,Customer C,7,2212.7
+1052,04-06-2023,East,Technology,Pen,Customer D,3,2596.57
+1053,30-09-2023,North,Furniture,Printer,Customer C,2,2632.82
+1054,29-09-2023,East,Office Supplies,Desk,Customer B,4,4971.31
+1055,09-10-2023,West,Technology,Chair,Customer A,7,4894.73
+1056,15-05-2023,West,Office Supplies,Phone,Customer A,8,4224.12
+1057,16-09-2023,East,Technology,Desk,Customer B,10,947.49
+1058,27-04-2023,North,Office Supplies,Monitor,Customer B,1,3910.35
+1059,26-06-2023,North,Office Supplies,Phone,Customer B,6,271.04
+1060,06-01-2023,West,Furniture,Table,Customer D,7,901.98
+1061,04-10-2023,West,Technology,Table,Customer E,10,2293.27
+1062,07-09-2023,North,Technology,Desk,Customer A,5,174.19
+1063,01-05-2023,South,Technology,Table,Customer B,10,475.32
+1064,17-08-2023,North,Furniture,Laptop,Customer B,5,2614.34
+1065,27-07-2023,West,Furniture,Phone,Customer C,7,3281.82
+1066,03-09-2023,West,Technology,Laptop,Customer D,6,4176.85
+1067,22-12-2023,East,Office Supplies,Printer,Customer B,10,2071.75
+1068,21-05-2023,South,Furniture,Phone,Customer D,6,2932.67
+1069,03-05-2023,East,Furniture,Table,Customer A,5,221.01
+1070,01-11-2023,West,Furniture,Printer,Customer B,8,1632.09
+1071,01-02-2023,East,Technology,Pen,Customer A,2,372.32
+1072,26-01-2023,East,Furniture,Table,Customer C,4,1246.76
+1073,18-08-2023,South,Office Supplies,Desk,Customer A,5,3536.29
+1074,26-07-2023,West,Office Supplies,Phone,Customer B,3,3033.53
+1075,20-11-2023,West,Office Supplies,Phone,Customer C,10,355.02
+1076,19-07-2023,South,Technology,Chair,Customer A,1,3998.74
+1077,04-05-2023,East,Office Supplies,Chair,Customer C,8,3517.91
+1078,28-10-2023,East,Technology,Chair,Customer E,9,2218.72
+1079,01-02-2023,East,Office Supplies,Table,Customer B,6,2262.67
+1080,22-05-2023,North,Technology,Desk,Customer B,6,2070.15
+1081,14-03-2023,North,Technology,Table,Customer A,7,4809.15
+1082,11-08-2023,North,Office Supplies,Laptop,Customer B,4,959.41
+1083,01-11-2023,East,Office Supplies,Monitor,Customer E,8,1367.31
+1084,03-03-2023,West,Technology,Table,Customer D,8,3596.1
+1085,29-07-2023,North,Office Supplies,Desk,Customer E,7,195.96
+1086,24-11-2023,North,Technology,Pen,Customer A,4,4895
+1087,26-10-2023,West,Technology,Pen,Customer D,9,3047.8
+1088,05-04-2023,West,Furniture,Printer,Customer B,9,116.25
+1089,26-12-2023,South,Furniture,Laptop,Customer A,4,315.47
+1090,19-02-2023,South,Furniture,Table,Customer C,5,534.4
+1091,17-09-2023,East,Office Supplies,Laptop,Customer B,3,329.18
+1092,26-06-2023,East,Furniture,Monitor,Customer A,4,2390.22
+1093,06-12-2023,West,Furniture,Table,Customer A,1,3712.86
+1094,29-06-2023,South,Office Supplies,Desk,Customer D,3,230.25
+1095,21-01-2023,West,Furniture,Phone,Customer D,8,3656.97
+1096,08-11-2023,East,Office Supplies,Desk,Customer B,8,4648.68
+1097,01-11-2023,East,Office Supplies,Desk,Customer B,10,999.47
+1098,07-02-2023,West,Office Supplies,Printer,Customer B,2,4339.6
+1099,09-09-2023,East,Technology,Printer,Customer B,6,508.11
+1100,12-12-2023,North,Furniture,Laptop,Customer C,10,2464.86
+1101,24-04-2023,West,Office Supplies,Pen,Customer E,8,4610.56
+1102,07-06-2023,North,Furniture,Table,Customer E,3,2014.02
+1103,05-11-2023,West,Technology,Monitor,Customer D,7,4583.23
+1104,27-08-2023,North,Furniture,Laptop,Customer D,7,731.99
+1105,24-10-2023,South,Office Supplies,Phone,Customer A,6,4294.01
+1106,27-01-2023,West,Technology,Monitor,Customer A,1,3879.08
+1107,18-03-2023,North,Technology,Phone,Customer B,2,3782.25
+1108,04-01-2023,West,Technology,Chair,Customer E,8,2665.12
+1109,02-05-2023,West,Furniture,Monitor,Customer C,7,2093.27
+1110,16-06-2023,West,Office Supplies,Pen,Customer D,1,2340.3
+1111,15-02-2023,South,Technology,Phone,Customer D,3,416.15
+1112,04-03-2023,South,Office Supplies,Laptop,Customer D,9,1553.1
+1113,24-10-2023,East,Furniture,Monitor,Customer A,10,321.69
+1114,02-04-2023,North,Furniture,Printer,Customer D,5,4098.14
+1115,04-05-2023,South,Furniture,Desk,Customer B,3,3266.85
+1116,09-03-2023,North,Office Supplies,Chair,Customer B,3,3465.28
+1117,02-07-2023,West,Technology,Pen,Customer A,2,441.4
+1118,29-01-2023,East,Office Supplies,Monitor,Customer A,4,2548.1
+1119,28-04-2023,South,Office Supplies,Table,Customer D,6,4672.68
+1120,22-01-2023,South,Furniture,Pen,Customer B,9,4342.63
+1121,08-04-2023,South,Technology,Table,Customer A,4,4952.72
+1122,01-11-2023,West,Technology,Pen,Customer A,6,4623.02
+1123,15-06-2023,East,Technology,Chair,Customer C,7,899.28
+1124,04-10-2023,West,Furniture,Table,Customer A,1,124.24
+1125,28-10-2023,West,Technology,Desk,Customer E,4,2594.64
+1126,31-08-2023,South,Furniture,Phone,Customer A,6,4616.76
+1127,19-02-2023,West,Furniture,Desk,Customer C,4,4059.13
+1128,06-07-2023,West,Office Supplies,Printer,Customer C,4,354.66
+1129,06-02-2023,East,Furniture,Table,Customer C,2,1443.69
+1130,19-03-2023,West,Technology,Pen,Customer A,1,2877.55
+1131,18-05-2023,North,Furniture,Desk,Customer C,6,1282.8
+1132,21-01-2023,South,Office Supplies,Monitor,Customer A,3,1631.27
+1133,13-04-2023,South,Office Supplies,Printer,Customer C,8,4466.23
+1134,28-08-2023,North,Office Supplies,Monitor,Customer E,1,4191.58
+1135,25-04-2023,North,Furniture,Phone,Customer A,3,3896.77
+1136,16-09-2023,West,Furniture,Phone,Customer B,2,1787.68
+1137,23-07-2023,South,Office Supplies,Monitor,Customer D,3,1538.02
+1138,11-08-2023,North,Technology,Monitor,Customer C,2,1184.19
+1139,25-09-2023,West,Furniture,Monitor,Customer B,4,1857.39
+1140,02-04-2023,West,Furniture,Pen,Customer E,4,4087.67
+1141,18-12-2023,North,Furniture,Chair,Customer B,6,547.71
+1142,01-02-2023,West,Office Supplies,Chair,Customer E,2,139.41
+1143,08-06-2023,West,Office Supplies,Chair,Customer A,1,3586.9
+1144,20-01-2023,East,Office Supplies,Printer,Customer D,8,4497.57
+1145,14-12-2023,South,Technology,Phone,Customer B,8,3740.55
+1146,24-03-2023,East,Technology,Desk,Customer B,6,2343.18
+1147,22-11-2023,West,Technology,Printer,Customer D,9,824.79
+1148,05-10-2023,North,Furniture,Table,Customer A,2,4990.52
+1149,10-09-2023,South,Furniture,Pen,Customer A,5,2527.47
+1150,11-07-2023,North,Furniture,Monitor,Customer D,8,822.37
